@@ -11,7 +11,8 @@ export default withMermaid(
     lang: metaData.lang,
     title: metaData.title,
     description: metaData.description,
-
+    
+    ignoreDeadLinks: true,
     cleanUrls: true,
     lastUpdated: true, // 显示最后更新时间
 
