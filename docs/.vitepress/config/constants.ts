@@ -1,4 +1,4 @@
-const site = 'https://blog.charles7c.top';
+const site = 'https://oldmemorie.github.io/yunzai-bot-docs/';
 
 export const metaData = {
   lang: 'zh-CN',

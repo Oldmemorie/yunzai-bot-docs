@@ -23,6 +23,9 @@ hero:
     - theme: alt
       text: 插件索引
       link: /插件索引.md
+    - theme: alt
+      text: 实验
+      link: /实验.md
       
 features:
   - icon: 
