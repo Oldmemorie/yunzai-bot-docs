@@ -11,11 +11,11 @@ showComment: false
   <a href="https://omrd.top/" target="_blank" style="display: inline-block;">
     <img alt="个人主页" src="https://img.shields.io/badge/旧忆 残梦-lightblue?logo=blogger&logoColor=lightblue" />
   </a>&nbsp;
-    <a href="https://github.com/Charles7c" target="_blank" style="display: inline-block;">
-        <img alt="GitHub个人主页" src="https://img.shields.io/badge/GitHub-Charles7c-lightblue?logo=github" />
+    <a href="https://github.com/Oldmemorie" target="_blank" style="display: inline-block;">
+        <img alt="GitHub个人主页" src="https://img.shields.io/badge/GitHub-Oldmemorie-lightblue?logo=github" />
     </a>&nbsp;
-    <a href="https://gitee.com/Charles7c" target="_blank" style="display: inline-block;">
-        <img alt="码云个人主页" src="https://img.shields.io/badge/码云-Charles7c-C71D23?logo=gitee&logoColor=C71D23" />
+    <a href="https://gitee.com/Oldmemorie" target="_blank" style="display: inline-block;">
+        <img alt="码云个人主页" src="https://img.shields.io/badge/码云-Oldmemorie-C71D23?logo=gitee&logoColor=C71D23" />
     </a>&nbsp;
  
 </p>

@@ -3,8 +3,8 @@ import { metaData } from './constants';
 
 export const head: HeadConfig[] = [
   ['link', { rel: 'icon', href: '/logo.png' }],
-  ['meta', { name: 'author', content: 'Charles7c' }],
-  ['meta', { name: 'keywords', content: '查尔斯的知识库, 知识库, 博客, Charles7c' }],
+  ['meta', { name: 'author', content: 'Oldmemorie' }],
+  ['meta', { name: 'keywords', content: '查尔斯的知识库, 知识库, 博客, Oldmemorie' }],
 
   ['meta', { name: 'HandheldFriendly', content: 'True' }],
   ['meta', { name: 'MobileOptimized', content: '320' }],
@@ -54,7 +54,7 @@ export const head: HeadConfig[] = [
 
   function getPv() {
     xhr = new XMLHttpRequest();
-    xhr.open('GET', 'https://api.charles7c.top/blog/pv?pageUrl=' + location.href);
+    xhr.open('GET', 'https://api.Oldmemorie.top/blog/pv?pageUrl=' + location.href);
     xhr.send();
   }`]
 ];
