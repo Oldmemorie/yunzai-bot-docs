@@ -7,7 +7,7 @@ import { themeConfig } from './config/theme';
 
 export default withMermaid(
   defineConfig({
-    base: '/yunzai-bot-docs/',
+    base: '/yunzai bot docs/',
     lang: metaData.lang,
     title: metaData.title,
     description: metaData.description,
