@@ -8,7 +8,7 @@ hero:
   text: Yunzai bot构建文档
   tagline: There are moldy dreams hidden in the pillow, and there are people,who can't be hugged in the dream
   image:
-    src: /logo.png
+    src: /阿库娅.png
     alt: 凑阿库娅
   actions:
     - theme: brand

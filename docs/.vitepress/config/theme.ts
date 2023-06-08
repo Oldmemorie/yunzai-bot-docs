@@ -8,7 +8,7 @@ export const themeConfig: DefaultTheme.Config = {
   nav, // 导航栏配置
   sidebar, // 侧边栏配置
 
-  logo: '/logo.png',
+  logo: '/阿库娅Q.png',
   outline: {
     level: 'deep', // 右侧大纲标题层级
     label: '目录', // 右侧大纲标题文本配置
