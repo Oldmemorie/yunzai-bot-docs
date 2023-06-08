@@ -3,11 +3,7 @@ import { metaData } from './constants';
 
 
 export const head: HeadConfig[] = [
-<<<<<<< HEAD
-  ['link', { rel: 'icon', href: '/yunzai-bot-docs/favicon.ico' }],
-=======
-  ['link', { rel: 'icon', href: './public/favicon.ico' }],
->>>>>>> 2e83a98dd30aaa3bf538025389899e79a8498db1
+  ['link', { rel: 'icon', href: './yunzai-bot-docs/favicon.ico' }],
   ['meta', { name: 'author', content: 'Charles7c' }],
   ['meta', { name: 'keywords', content: '查尔斯的知识库, 知识库, 博客, Charles7c' }],
 
