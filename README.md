@@ -5,7 +5,7 @@
 ## 开始
 # 克隆本仓库
 ```sh
-git clone https://github.com/OldmemoriesResidualdreams/oldmemoriesresidualdreams.github.io.git
+git clone https://github.com/Oldmemorie/yunzai-bot-docs.git
 ```
 
 # 2.安装 PNPM
@@ -45,4 +45,4 @@ pnpm build
 
 - 文章遵循[ CC 4.0 BY-SA ](http://creativecommons.org/licenses/by-sa/4.0/)版权协议，转载请附上原文出处链接和声明
 - 源码遵循 [MIT](https://github.com/Oldmemorie/Oldmemorie.github.io/blob/main/LICENSE) 许可协议
-- Copyright © 2019-2022 旧忆 残梦
+- Copyright © 2022-2023 旧忆 残梦
