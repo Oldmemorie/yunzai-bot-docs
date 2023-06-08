@@ -1,5 +1,5 @@
 ---
-title: 关于知识库
+title: 关于文档
 aside: false
 editLink: false
 lastUpdated: false
@@ -8,7 +8,7 @@ lastUpdated: false
 <img width=100% src="../public/img/svg/about-repos-header.svg" alt="头部图" />
 
 <div align="center">
-    📝 <strong>旧忆 残梦，书写，独立完成</strong>
+    📝 <strong>由 旧忆 残梦 书写</strong>
 </div>
 
 ---

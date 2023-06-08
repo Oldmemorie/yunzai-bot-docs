@@ -14,7 +14,7 @@ showComment: false
     <a href="https://github.com/Oldmemorie" target="_blank" style="display: inline-block;">
         <img alt="GitHub个人主页" src="https://img.shields.io/badge/GitHub-Oldmemorie-lightblue?logo=github" />
     </a>&nbsp;
-    <a href="https://gitee.com/Oldmemorie" target="_blank" style="display: inline-block;">
+    <a href="https://gitee.com/Oldmemories" target="_blank" style="display: inline-block;">
         <img alt="码云个人主页" src="https://img.shields.io/badge/码云-Oldmemorie-C71D23?logo=gitee&logoColor=C71D23" />
     </a>&nbsp;
  
