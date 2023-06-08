@@ -74,42 +74,7 @@ jobs:
       - name: Sync to Gitee
         uses: wearerequired/git-mirror-action@master #使用action库
         env:
-          SSH_PRIVATE_KEY: ${{ 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 }} #Gitee私钥
+          SSH_PRIVATE_KEY: ${{ secrets.GITEE_RSA_PRIVATE_KEY }} #Gitee私钥
         with:
           source-repo: git@github.com:Oldmemorie/yunzai-bot-docs.git #GitHub 源仓库地址
           destination-repo: git@gitee.com:Oldmemories/yunzai-bot-docs.git #Gitee 目标仓库地址
@@ -119,7 +84,7 @@ jobs:
         if: github.event_name != 'workflow_dispatch'
         uses: yanglbme/gitee-pages-action@main
         with:
-          gitee-username: ${{ oldmemories }} #Gitee 用户名
-          gitee-password: ${{ wuyingqi123 }} #Gitee 密码
-          gitee-repo: oldmemories/yunzai-bot-docs #Gitee 仓库
+          gitee-username: ${{ secrets.GITEE_USERNAME }} #Gitee 用户名
+          gitee-password: ${{ secrets.GITEE_PASSWORD }} #Gitee 密码
+          gitee-repo: Charles7c/charles7c #Gitee 仓库
           branch: pages #要部署的分支，默认是 master，若是其他分支，则需要指定（指定的分支必须存在）
