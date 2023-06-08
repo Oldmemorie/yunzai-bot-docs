@@ -1,6 +1,7 @@
 import type { HeadConfig } from 'vitepress';
 import { metaData } from './constants';
 
+
 export const head: HeadConfig[] = [
   ['link', { rel: 'icon', href: '/yunzai-bot-docs/favicon.ico' }],
   ['meta', { name: 'author', content: 'Charles7c' }],
