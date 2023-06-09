@@ -6,7 +6,7 @@ titleTemplate: Yunzai bot 构建文档
 hero:
   name: Yunzai bot 
   text: Yunzai bot构建文档
-  tagline: There are moldy dreams hidden in the pillow, and there are people,who can't be hugged in the dream
+  tagline: 一个人，要犯下多少恶行 才能在地狱的尽头，将她带回黎明。 一个人，要走多远的距离 才能在时光的尽头，追回最初的自己
   image:
     src: /阿库娅.png
     alt: 凑阿库娅
@@ -54,6 +54,7 @@ features:
       src: /img/API.svg
     title:  完全类型化的API
     details: 插件支持api接口丰富
+    
     
     
     

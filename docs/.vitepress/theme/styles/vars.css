@@ -47,5 +47,9 @@ html.dark {
 @media (min-width: 960px) {
 :root {
   --vp-home-hero-image-filter: blur(72px);
+
 }
+
+@import 'vue-aplayer/dist/static/APlayer.min.css';
+
 }

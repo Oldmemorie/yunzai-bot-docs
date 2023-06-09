@@ -1,7 +1,6 @@
 import type { DefaultTheme } from 'vitepress';
 import { nav } from './nav';
 import { sidebar } from './sidebar';
-import { algoliaSearchOptions } from './search/algolia-search';
 import { localSearchOptions } from './search/local-search';
 
 export const themeConfig: DefaultTheme.Config = {
@@ -27,13 +26,13 @@ export const themeConfig: DefaultTheme.Config = {
     pattern: 'https://github.com/Oldmemorie/Oldmemorie.github.io/edit/main/docs/:path',
     text: '不妥之处，敬请雅正'
   },
-  // 搜索配置（二选一）
+  // 搜索配置
   search: {
     provider: 'local',
-    options: algoliaSearchOptions,
+   
     // 本地离线搜索
     // provider: 'local',
-    // options: localSearchOptions
+
   },
   // 导航栏右侧社交链接配置
   socialLinks: [
@@ -52,6 +51,7 @@ export const themeConfig: DefaultTheme.Config = {
     },
     
   ],
+  
 
   // 自定义扩展: 文章元数据配置
   // @ts-ignore
@@ -71,10 +71,8 @@ export const themeConfig: DefaultTheme.Config = {
     showComment: true // 是否显示评论
   },
   // 自定义扩展: 页脚配置
-  footerConfig: {
-    showFooter: true, // 是否显示页脚
-    icpRecordCode: '津ICP备2022005864号-2', // ICP备案号
-    publicSecurityRecordCode: '津公网安备12011202000677号', // 联网备案号
-    copyright: `Copyright © 2019-${new Date().getFullYear()} Oldmemorie` // 版权信息
+  footer: {
+    message: 'Released under the <font color=#fcbfc7 size=1 >MIT</font> License',
+    copyright: 'Copyright © 2019-present <a href="https://github.com/Oldmemorie"><font color=#fcbfc7 size=1 >旧忆 残梦</font></a>'
   }
 }
