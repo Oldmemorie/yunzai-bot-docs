@@ -53,3 +53,13 @@ html.dark {
 @import 'vue-aplayer/dist/static/APlayer.min.css';
 
 }
+
+@font-face {
+  font-family: 'MyFontName';
+  src: url('/fonts/原神字体.ttf') format('truetype');
+  /* 添加其他格式 */
+}
+
+body {
+  font-family: 'MyFontName', sans-serif;
+}
