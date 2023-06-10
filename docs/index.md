@@ -13,10 +13,10 @@ hero:
   actions:
     - theme: brand
       text: 开始
-      link: /courses/menu1/介绍/01-什么是Yunzai bot.md
+      link: /guide/menu1/介绍/01-什么是Yunzai bot.md
     - theme: alt
       text: 常见问题
-      link: /courses/FAQ/FAQ.md
+      link: /guide/FAQ/FAQ.md
     - theme: brand
       text: Yunzai bot 贡献者
       link: /团队.md

@@ -19,10 +19,10 @@ npm run login
 ```
 建议多试几次<Badge type="tip" text="建议" />
  ### 2.icqq的[禁止登录]（错误码:45） 
- * 建议使用脚本修复 [传送门](/courses/menu1/开始/02-脚本部署.md)<Badge type="tip" text="建议" />
+ * 建议使用脚本修复 [传送门](/guide/menu1/开始/02-脚本部署.md)<Badge type="tip" text="建议" />
 
  ### 3.icqq的[禁止登录]（错误码:235）
- * 解决方法：删除[data](/courses/menu1/开始/05-结构目录.md)下的配置文件
+ * 解决方法：删除[data](/guide/menu1/开始/05-结构目录.md)下的配置文件
  可以手动删除也可以执行下面的代码
 
 ::: details  yunzai  
@@ -42,7 +42,7 @@ rm -rf data/icqq
 ```sh 
 node app
 ```
-* 不会用脚本[传送门](/courses/menu1/开始/02-脚本部署.md)<Badge type="tip" text="建议" />
+* 不会用脚本[传送门](/guide/menu1/开始/02-脚本部署.md)<Badge type="tip" text="建议" />
 
 ~~别告诉我你分不清~~
 

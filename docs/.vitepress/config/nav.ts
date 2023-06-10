@@ -3,14 +3,24 @@ import type { DefaultTheme } from 'vitepress';
 export const nav: DefaultTheme.Config['nav'] = [
 {
   text: '指导',
-    link: '/courses/menu1/介绍/01-什么是Yunzai bot.md',
-    activeMatch: '/courses/menu1/介绍/01-什么是Yunzai bot.md'
+    link: '/guide/menu1/介绍/01-什么是Yunzai bot.md',
+    activeMatch: '/guide/menu1/介绍/01-什么是Yunzai bot.md'
   },
  
   {
     text: 'FAQ',
-    link: '/courses/FAQ/FAQ.md',
-    activeMatch: '/courses/FAQ/FAQ.md'
+    link: '/guide/FAQ/FAQ.md',
+    activeMatch: '/guide/FAQ/FAQ.md'
+  },
+  {
+    text: '我的标签',
+    link: '/tags',
+    activeMatch: '/tags'
+  },
+  {
+    text: '归档',
+    link: '/archives',
+    activeMatch: '/archives'
   },
   {
     text: '关于',

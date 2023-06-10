@@ -3,8 +3,8 @@ import { sync } from 'fast-glob';
 import * as matter from 'gray-matter';
 
 export const sidebar: DefaultTheme.Config['sidebar'] = {
- '/courses/menu1/': getItems("courses/menu1"),
-  '/courses/menu2/': getItems("courses/menu2"),
+ '/guide/menu1/': getItems("guide/menu1"),
+  '/guide/menu2/': getItems("guide/menu2"),
 }
 
 /**
@@ -98,7 +98,7 @@ function getItemsByDate (path: string) {
 /**
  * 根据 某小课/序号-分组/序号-xxx.md 的目录格式, 获取侧边栏分组及分组下标题
  * 
- * courses/mybatis/01-MyBatis基础/01-xxx.md
+ * guide/mybatis/01-MyBatis基础/01-xxx.md
  * 
  * @param path 扫描基础路径
  * @returns {DefaultTheme.SidebarItem[]}
