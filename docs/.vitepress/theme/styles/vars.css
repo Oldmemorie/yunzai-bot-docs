@@ -1,0 +1,65 @@
+:root {
+  --vp-c-brand: #fcbfc7;
+  --vp-c-brand-light: #fcbfc7;
+  --vp-c-brand-lighter: #fcbfc7;
+  --vp-c-brand-lightest: #fcbfc7;
+  --vp-c-brand-dark: #fcbfc7;
+  --vp-c-brand-darker: #fcbfc7;
+
+  --vp-code-block-bg: #000000;
+
+
+  --vp-home-hero-name-color: transparent;
+--vp-home-hero-name-background: -webkit-linear-gradient(
+  315deg,
+  #fcbfc7 25%,
+  #fcbfc7
+);
+
+--vp-home-hero-image-background-image: linear-gradient(
+  -45deg,
+  #fcbfc7 50%,
+  #fcbfc7 50%
+);
+--vp-home-hero-image-filter: blur(40px);
+
+}
+
+.demo-block .meta {
+  background-color: var(--vp-code-block-bg);
+}
+
+html.dark {
+  --vp-code-block-bg: var(--vp-c-bg-alt);
+}
+
+.demo-block .xl-button {
+  margin: 0 10px 10px 0;
+}
+
+
+@media (min-width: 640px) {
+:root {
+  --vp-home-hero-image-filter: blur(56px);
+}
+}
+
+@media (min-width: 960px) {
+:root {
+  --vp-home-hero-image-filter: blur(72px);
+
+}
+
+@import 'vue-aplayer/dist/static/APlayer.min.css';
+
+}
+
+@font-face {
+  font-family: 'MyFontName';
+  src: url('/fonts/原神字体.ttf') format('truetype');
+  /* 添加其他格式 */
+}
+
+body {
+  font-family: 'MyFontName', sans-serif;
+}
