@@ -24,7 +24,7 @@ showComment: false
 - 👋 Hi, I'm 旧忆 残梦
 - 🔭 I'm currently working on backend development
 - 📫 How to reach me: [旧忆 残梦](github.com)
-- 📖 My motto: “东隅已逝，桑榆非晚。”
+- 📖 My motto: 一个人，要犯下多少恶行 才能在地狱的尽头，将她带回黎明。 一个人，要走多远的距离 才能在时光的尽头，追回最初的自己
 ---
 
 

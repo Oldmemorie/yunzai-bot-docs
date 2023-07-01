@@ -23,37 +23,35 @@ hero:
     - theme: alt
       text: 插件索引
       link: /插件索引.md
-    - theme: alt
-      text: 实验
-      link: /实验.md
+   
       
 features:
   - icon: 
-      src: /img/vite.svg
-    title: 格式优化
+      src: /img/svg/home/vite.svg
+    title: 速度优化
     details: 使用vitepress强力驱动，访问更快
   - icon:
-      src: /img/vue.svg
+      src: /img/svg/home/vue.svg
     title: 介绍详细
     details: 细节和原理进行了详细的说明，知其然知其所以然
   - icon:
-      src: /img/简单.svg
+      src: /img/svg/home/简单.svg
     title: 简介明了
     details: 浅显易懂，轻松掌握
     
    
   - icon: 
-      src: /img/简单部署.svg
+      src: /img/svg/home/简单部署.svg
     title:  优化的构建
     details: 多种部署方式，小白也能轻松搭建
   - icon: 
-      src: /img/插件.svg
+      src: /img/svg/home/插件.svg
     title:  通用的插件
     details: 各种功能性插件，满足需要
   - icon: 
-      src: /img/API.svg
-    title:  完全类型化的API
-    details: 插件支持api接口丰富
+      src: /img/svg/home/API.svg
+    title:  强大的封号能力
+    details: 体验风控，频繁账号冻结直至跑路
     
     
     

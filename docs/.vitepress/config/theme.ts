@@ -72,7 +72,7 @@ export const themeConfig: DefaultTheme.Config = {
   },
   // 自定义扩展: 页脚配置
   footer: {
-    message: 'Released under the <font color=#fcbfc7 size=1 >MIT</font> License',
+    message: 'Released under the <a href="about/MIT.md"><font color=#fcbfc7 size=1 >MIT</font></a> License',
     copyright: 'Copyright © 2019-present <a href="https://github.com/Oldmemorie"><font color=#fcbfc7 size=1 >旧忆 残梦</font></a>'
   }
 }
