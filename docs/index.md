@@ -19,7 +19,7 @@ hero:
       link: /guide/FAQ/FAQ.md
     - theme: brand
       text: Yunzai bot 贡献者
-      link: /团队.md
+      link: /team.md
     - theme: alt
       text: 插件索引
       link: /插件索引.md
