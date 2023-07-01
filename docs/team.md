@@ -673,13 +673,5 @@ const members = [
 
 
 
-## <font color=black size=6  >联系方式</font>
-  
-  
 
-- [ QQ:3293811490](https://qm.qq.com/cgi-bin/qm/qr?k=stVxYiM6baJII6OwS9rWJcvs_loagz9G&noverify=0&personal_qrcode_source=3)
-
-- [ GitHub ](https://github.com/Oldmemorie)
-
-- [Gitte ](https://gitee.com/Oldmemories)
 

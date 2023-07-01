@@ -25,6 +25,16 @@ showComment: false
 - 🔭 I'm currently working on backend development
 - 📫 How to reach me: [旧忆 残梦](github.com)
 - 📖 My motto: 一个人，要犯下多少恶行 才能在地狱的尽头，将她带回黎明。 一个人，要走多远的距离 才能在时光的尽头，追回最初的自己
+
+## <font color=black size=6  >联系方式</font>
+  
+  
+
+- [ QQ:3293811490](https://qm.qq.com/cgi-bin/qm/qr?k=stVxYiM6baJII6OwS9rWJcvs_loagz9G&noverify=0&personal_qrcode_source=3)
+
+- [ GitHub ](https://github.com/Oldmemorie)
+
+- [Gitte ](https://gitee.com/Oldmemories)
 ---
 
 
